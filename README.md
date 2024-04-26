@@ -25,6 +25,13 @@ Autonomous Underwater Vehicles are crucial for advancing oceanographic research.
 4. **Documentation**
    - Detailed guides and instructions for setting up and running simulations, along with comprehensive explanations of the theoretical framework and system architecture.
 
+## Ongoing work 
+
+1. **Formal Model**
+   
+   - A Formal Model will be introduced to describe the state space and parameters of the simulation.
+  
+
 ## Getting Started
 
 To get started with this repository, clone it and follow the documentation provided to set up the simulation environments and run the reinforcement learning models. Ensure that you have the required software installations as mentioned in the documentation.
