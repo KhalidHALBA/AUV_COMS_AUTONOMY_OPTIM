@@ -30,5 +30,5 @@ Autonomous Underwater Vehicles are crucial for advancing oceanographic research.
 To get started with this repository, clone it and follow the documentation provided to set up the simulation environments and run the reinforcement learning models. Ensure that you have the required software installations as mentioned in the documentation.
 
 ```bash
-git clone https://github.com/yourusername/AUV-Operational-Strategies-Simulation.git
-cd AUV-Operational-Strategies-Simulation
+git clone [https://github.com/yourusername/AUV-Operational-Strategies-Simulation.git](https://github.com/KhalidHALBA/AUV_COMS_AUTONOMY_OPTIM.git)
+cd AUV_COMS_AUTONOMY_OPTIM
